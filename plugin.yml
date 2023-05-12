@@ -1,0 +1,3 @@
+run:
+  binary:
+    source: https://<url>.zst
